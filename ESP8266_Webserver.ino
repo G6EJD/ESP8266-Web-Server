@@ -21,8 +21,8 @@ String webpage = "";
 #define temperature_error_offset  0
 #define humidity_error_offset    16
 
-const char *ssid     = "SKY6D12C";
-const char *password = "WQSUBEPQ";
+const char *ssid     = "your SSID here";
+const char *password = "your password here";
 
 ESP8266WebServer server(80);
 
